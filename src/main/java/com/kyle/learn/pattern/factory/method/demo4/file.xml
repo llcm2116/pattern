@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<loggers>
+    <logger>
+        <name>file</name>
+        <class>com.kyle.learn.pattern.factory.method.demo4.FileLoggerFactory</class>
+    </logger>
+    <mobile>
+        <name>database</name>
+        <class>com.kyle.learn.pattern.factory.method.demo4.DatabaseLoggerFactory</class>
+    </mobile>
+</loggers>
