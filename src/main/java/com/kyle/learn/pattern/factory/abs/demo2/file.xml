@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<mobiles>
+    <mobile>
+        <name>symbian</name>
+        <class>com.kyle.learn.pattern.factory.abs.demo2.SymbianPhoneFactory</class>
+    </mobile>
+    <mobile>
+        <name>iphone</name>
+        <class>com.kyle.learn.pattern.factory.abs.demo2.IPhonePhoneFactory</class>
+    </mobile>
+    <mobile>
+        <name>android</name>
+        <class>com.kyle.learn.pattern.factory.abs.demo2.AndroidPhoneFactory</class>
+    </mobile>
+</mobiles>

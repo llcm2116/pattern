@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<shapes>
+    <shape>
+        <name>round</name>
+        <class>com.kyle.learn.pattern.factory.simple.demo2.RoundShape</class>
+    </shape>
+    <shape>
+        <name>square</name>
+        <class>com.kyle.learn.pattern.factory.simple.demo2.SquareShape</class>
+    </shape>
+    <shape>
+        <name>triangle</name>
+        <class>com.kyle.learn.pattern.factory.simple.demo2.TriangleShape</class>
+    </shape>
+</shapes>
