@@ -1,4 +1,4 @@
-package com.kyle.learn.pattern.singleton;
+package com.kyle.learn.pattern.singleton.demo1;
 
 /**
  * 1. 懒汉模式实现了延迟加载，减少资源消耗

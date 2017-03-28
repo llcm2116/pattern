@@ -1,4 +1,4 @@
-package com.kyle.learn.pattern.singleton;
+package com.kyle.learn.pattern.singleton.demo1;
 
 /**
  * 1. 没有在类加载的时候创建对象，防止资源损耗
