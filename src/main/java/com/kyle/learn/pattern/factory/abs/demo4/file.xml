@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<companies>
+    <company>
+        <name>mi</name>
+        <class>com.kyle.learn.pattern.factory.abs.demo4.MiCompany</class>
+    </company>
+    <company>
+        <name>hw</name>
+        <class>com.kyle.learn.pattern.factory.abs.demo4.HuaWeiCompany</class>
+    </company>
+</companies>
