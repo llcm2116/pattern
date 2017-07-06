@@ -9,7 +9,7 @@ public class Client {
     public static void main(String[] args) {
         ActorBuilder actorBuilder = new DevilBuilder();
 
-        Actor actor = actorBuilder.cunstruct();
+        Actor actor = actorBuilder.construct();
         System.out.println(actor.toString());
     }
 }

@@ -19,7 +19,7 @@ public abstract class ActorBuilder {
 
     protected abstract void buildHairstyle();
 
-    public Actor cunstruct() {
+    public Actor construct() {
         buildCostume();
         buildFace();
         if (!isBareheaded()) {
